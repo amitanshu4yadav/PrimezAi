@@ -1,0 +1,26 @@
+{
+  "name": "Primez",
+  "short_name": "Primez",
+  "description": "Primez is a free AI learning website. Take short interactive lessons on how AI works, ChatGPT, Claude, prompting and AI safety, keep notes, share them with friends and study together in spaces.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6d3fe6",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /?note=
+Disallow: /?n=
+
+Sitemap: https://primezo.com/sitemap.xml
